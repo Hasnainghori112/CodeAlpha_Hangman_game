@@ -76,15 +76,4 @@ Letter is not in word.
 - Read words from an external file.
 - Add a simple GUI using `tkinter` or `pygame`.
 
----
-
-## 🤝 Contributing
-
-Feel free to fork this project and improve it. Pull requests are welcome!
-
----
-
-## 📜 License
-
-This project is open-source and free to use.
 
